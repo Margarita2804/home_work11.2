@@ -4,5 +4,5 @@ def capital_letters(value):
 
 
 def capital_big_letter(value):
-    """capitalize a letter in a word"""
+    """capitalize a letters in a word"""
     return value.title()
